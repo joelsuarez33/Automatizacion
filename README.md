@@ -78,4 +78,4 @@ Check the file `example_miro_loop.py` for a script that automates invoice creati
 ## 📥 Clone this repo
 
 ```bash
-git clone https://github.com/joelsuarez33/automatizacion.git
+git clone https://github.com/joelsuarez33/Automatizacion.git
