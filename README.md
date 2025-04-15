@@ -18,6 +18,7 @@ Native Spanish speaker 🇦🇷 | Advanced English 🗣️
 
 - Python 🐍
 - Visual Studio Code 💻
+- SQL 💾
 - SAP GUI Scripting 📘
 - Excel 📊
 - Power BI 📈
@@ -83,8 +84,3 @@ Check the file `example_miro_loop.py` for a script that automates invoice creati
 
 ```bash
 git clone https://github.com/joelsuarez33/joel-f-suarez.git
-
- 
- 
- 
- 
