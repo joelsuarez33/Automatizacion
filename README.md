@@ -36,7 +36,6 @@ Native Spanish speaker 🇦🇷 | Advanced English 🗣️
 ## ✅ What you can automate
 
 ✔️ Mass extraction from transactions (e.g.,**FBL1N**, etc )
-✔️ Mass extraction from transactions (e.g.,**MIRO**, **FB60**, etc)
 ✔️ Automated form filling and navigation  
 ✔️ Data input from **Excel to SAP**  
 ✔️ Report customization and download  
