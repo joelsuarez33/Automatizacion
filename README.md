@@ -35,7 +35,8 @@ Native Spanish speaker 🇦🇷 | Advanced English 🗣️
 
 ## ✅ What you can automate
 
-✔️ Mass extraction from transactions (e.g., **FBL1N**, **MB51**)  
+✔️ Mass extraction from transactions (e.g.,**FBL1N**, etc )
+✔️ Mass extraction from transactions (e.g.,**MIRO**, **FB60**, etc)
 ✔️ Automated form filling and navigation  
 ✔️ Data input from **Excel to SAP**  
 ✔️ Report customization and download  
@@ -71,7 +72,7 @@ Check the file `example_miro_loop.py` for a script that automates invoice creati
 
 - Python 3.8+
 - SAP GUI for Windows (with scripting enabled)
-- `pywin32` installed (`pip install pywin32`)
+- `pywin32` `pandas` installed (`pip install pywin32 pandas`)
 
 ---
 
